@@ -5,7 +5,7 @@ function add($a,$b){
     echo"sum is : $sum <br><br>";
 }
 
-//function for subtraction
+
 function sub($a,$b){
     $sub=$a-$b;
     echo"difference is : $sub <br><br>";
