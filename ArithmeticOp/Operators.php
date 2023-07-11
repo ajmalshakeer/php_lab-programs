@@ -11,7 +11,7 @@ function sub($a,$b){
     echo"difference is : $sub <br><br>";
 }
 
-//function for multiplication
+//function for 
 function mul($a,$b){
     $mul=$a*$b;
     echo"multilpied value is: $mul <br><>br>";
